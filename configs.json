@@ -1,8 +1,5 @@
 {
   "version": "1.0.0",
-  "support": [
-    "Arceus",
-    "Codex",
-    "Wave"
-  ]
+  "whitelist": [],
+  "blacklist": []
 }
