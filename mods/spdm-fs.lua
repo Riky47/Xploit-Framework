@@ -1,4 +1,6 @@
-local framework = ({...})[1]
+-- SPDM File System adapter
+
+local framework = ...
 framework.env.arceus = framework.env.arceus or {}
 (getgenv and getgenv() or {}).arceus = nil
 
